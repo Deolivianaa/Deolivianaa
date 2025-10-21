@@ -6,7 +6,7 @@
 
 🎓 Estudo [Desenvolvimento Web Fullstack](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/?couponCode=KEEPLEARNINGBR) pela Udemy.
 
-👨‍💼 Trabalho como **Suporte de Analista**, mas também atuo com **Infraestrutura e Desenvolvedor de Projetos**, automação, redes e servidores.
+👨‍💼 Trabalho como **Suporte de Analista**, mas também atuo com **Infraestrutura e Desenvolvedor de Projetos** na **Tintacon**, automação, redes e servidores.
 
 🛠️ Com sólida experiência em **Controle de Acesso**, **Gestão de Servidores e Redes**, **Automação de Sistemas** e **Infraestrutura de TI**, tenho perfil proativo e gosto de resolver problemas com soluções eficientes e seguras.
 
